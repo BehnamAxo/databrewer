@@ -1,0 +1,11 @@
+{
+  "name": "databrewer",
+  "version": "1.0.0",
+  "description": "DataBrewer is an npm package",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Behnam Amiri",
+  "license": "ISC"
+}
